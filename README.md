@@ -1,2 +1,3 @@
-# GuessingGame_python
+# guessing-game-app
+
 Guessing game made in python.
